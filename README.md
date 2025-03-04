@@ -1,13 +1,16 @@
 # Crystal-Chaser
 
-***Authors**: "BaKeMoN0"
+**Authors**: "BaKeMoN0"
 
-***Date**: 30/06/2024*
+**Date**: 30/06/2024
 
-***Engine & Version**: [Unreal Engine 5.5]
+**Engine & Version**: [Unreal Engine 5.5]
 
 ## Introduction
-Welcome to the Crystal Chaser project! This document provides an overview of the game concept, as well as current and planned features.
+**Welcome to the Crystal Chaser project !**
+This document provides an overview of the game concept, along with current and planned features.
+
+"Crystal Chaser was developed entirely using Unreal Engine Blueprints, as it is my first project on the engine. This approach allowed for rapid prototyping and a better understanding of Unreal’s workflow. Future improvements may include optimizations or a partial rewrite in C++."
 
 ## Concept
 Crystal Chaser is an arcade-style game where you control a character that moves horizontally across the screen. When reaching the left or right edge, the character seamlessly teleports to the opposite side, creating a continuous movement loop.
